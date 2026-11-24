@@ -4,11 +4,6 @@
 
 }
 
-body {
-    padding-top: 0,01rem;
-    padding-bottom: 0,01rem;
-}
-
 .hide {
     display: none !important;
 }
